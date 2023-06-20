@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "USB-PD")(type "KiCad")(uri "${KIPRJMOD}/USB-PD.pretty")(options "")(descr ""))
+)
